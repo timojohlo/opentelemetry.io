@@ -84,7 +84,6 @@ And referencing the labels in `service::telemetry::resource`:
 ```yaml
 resource:
   label_key: label_value
-
 ```
 
 {{% alert title="Internal telemetry configuration changes" %}}
