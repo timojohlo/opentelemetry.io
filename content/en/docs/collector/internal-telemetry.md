@@ -80,6 +80,7 @@ prometheus:
     included:
     - label_key
 ```
+
 And referencing the labels in `service::telemetry::resource`:
 ```yaml
 resource:
